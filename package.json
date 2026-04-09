@@ -2,6 +2,10 @@
   "name": "polymarket-arbitrage-bot",
   "version": "1.0.0",
   "description": "Polymarket 15m up/down dump-and-hedge trading bot (TypeScript)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maicoln387/polymarket-arbitrage-trading-bot.git"
+  },
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
